@@ -1,4 +1,4 @@
-# Logic-programing
+# Answer Set Programming
 #an ASP program (hitori.lp) that solves the puzzle for any instance. The program receive as input a set cell/3 of triples r; c; n such that the grid has number n
 in row r, column c. The output of the program is a set cellblack/2 of pairs r; c such that the cell at row r, column c is eliminated.
 Hitori is played in an n  n grid of cells, where each cell contains a number j E {1..n}. The objective is to remove cells (marked as black), so that the three following rules are satisfied.
